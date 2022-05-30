@@ -1,0 +1,46 @@
+
+
+.menu{
+    display: flex;
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 20px;
+    
+}
+
+.link{
+    flex: 90%;
+    margin: 5px;
+    margin-left: 30px;
+   
+}
+
+.link a{
+    font-family: 'Raleway', sans-serif;
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.link a:hover{
+    border-top: solid 1px white;
+}
+
+.login{
+    flex: 10%;
+    margin-right: 30px;
+    margin: 5px;
+    text-align: center;
+}
+
+.login a{
+    font-family: 'Raleway', sans-serif;
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.login a:hover{
+    border-top: solid white 1px;
+}

@@ -1,0 +1,10 @@
+@media screen and (max-width: 1005px){
+    .menu{
+        display: none;
+        position: relative;
+    }
+
+    .corpo{
+        display: block;
+    }
+}

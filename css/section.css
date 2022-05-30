@@ -1,0 +1,47 @@
+/*body{
+    background-color: black;
+}*/
+
+
+.corpo{
+    display: flex;
+    margin: 5%;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.texto{
+    flex: 60%;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.texto h2{
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.texto p{
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.imagem{
+    flex: 20%;
+}
+.imagem img{
+    border-radius: 10px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.espaco{
+    display: block;
+    width: 100%;
+    height: 600px;
+    background-image: url(../img/imagens/pexels-photo.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+}
