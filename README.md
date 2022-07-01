@@ -22,6 +22,9 @@ Este é um projeto próprio. Um site de Nutrição e Musculação.
     
    * ### Sistema de Login para os usuários salvarem suas informações.
 
+   #### NOTA DE ATUALIZAÇÃO!
+   * Menu Mobile agora está disponível! V1.0
+
 
 
 Obrigado por ler!

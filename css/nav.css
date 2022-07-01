@@ -44,3 +44,17 @@
 .login a:hover{
     border-top: solid white 1px;
 }
+
+.menu.Clicado{
+    display: block;
+}
+.menu.Clicado .link{
+    margin: 2px;
+    margin-bottom: 5px;
+    padding: 0;
+}
+
+.menu.Clicado .link a{
+    display: block;
+    padding: 0;
+}

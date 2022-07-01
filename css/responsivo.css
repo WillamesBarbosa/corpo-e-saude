@@ -1,4 +1,8 @@
 @media screen and (max-width: 1005px){
+    .topo{
+        display: block;
+    }
+
     .menu{
         display: none;
         position: relative;
@@ -6,5 +10,25 @@
 
     .corpo{
         display: block;
+        margin: 0;
+    }
+
+    .texto{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .texto h2{
+        font-size: 30px;
+    }
+
+    .texto p{
+        font-size: 15px;
+    }
+
+    .login{
+        margin-bottom: 5px;
+        padding: 0;
+        text-align: left;
     }
 }
