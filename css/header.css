@@ -34,6 +34,7 @@ body{
 
 .menuMobile{
     margin-left: 75vw;
+    display: none;
 }
 
 .menuMobile.Clicado{

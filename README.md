@@ -24,6 +24,7 @@ Este é um projeto próprio. Um site de Nutrição e Musculação.
 
    #### NOTA DE ATUALIZAÇÃO!
    * Menu Mobile agora está disponível! V1.0
+   * Correção de Bug do menu mobile! V1.1
 
 
 
